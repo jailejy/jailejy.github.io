@@ -13,12 +13,6 @@ body {
    
    
 }
-.logo {
-    font-size: 2.5rem;
-    font-weight: 600;
-    color: rgb(255, 255, 255);
-    cursor:default;
-}
 .nav-bar {
     width: 100%;
     display: flex;
@@ -29,7 +23,7 @@ body {
     background-color: var(--color2);
     padding: 12px 20px;
 }
-.logo img {width: 40px;}
+.logo {width: 40px;}
 .menu {display: flex;}
 .menu li {padding-left: 30px;}
 .menu li a {
