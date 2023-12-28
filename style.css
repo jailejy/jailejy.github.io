@@ -23,7 +23,11 @@ body {
     background-color: var(--color2);
     padding: 12px 20px;
 }
-.logo {width: 40px;}
+.logo {
+    width: 40px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    cursor:default}
 .menu {display: flex;}
 .menu li {padding-left: 30px;}
 .menu li a {
